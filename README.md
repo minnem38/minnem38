@@ -4,7 +4,8 @@
 <h2>DEVICES</h2>
 <p>wait no how do you do a list in HTML again?</p>
 <ul>
+  <li>Main PC. Ryzen 9 3900X, 16GB DDR4, RTX 2060.</li>
   <li>A Raspberry Pi, I have the Pi 5 4gb.</li>
-  <li>Any PC, mine has an i7 2600k. I am using 16 Gigs of 1333mhz DDR3 and a GTX 1650</li>
+  <li>Server computer, mine has an i7 2600k. I am using 16 Gigs of 1333mhz DDR3 and a GTX 1650</li>
 </ul>
 <br>
