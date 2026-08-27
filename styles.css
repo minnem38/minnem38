@@ -12,3 +12,18 @@ body {
     font-family: 'Poppins', sans-serif;
     margin-top: 10px;
 }
+img {
+    max-width: 20%;
+    height: auto;
+    display: block;
+}
+.social {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    align-items: center;
+    font-size: 1.2rem;
+}
+a {
+    color: white;
+}
