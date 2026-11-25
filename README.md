@@ -13,6 +13,6 @@ Currently learning Node.js and Express.js.<br>Working on some personal/hobby pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=minnem38&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=minnem38&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=minnem38&icon=2)](https://visitcount.itsvg.in)
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
