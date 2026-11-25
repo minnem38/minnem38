@@ -1,11 +1,18 @@
-<h1>minnem38</h1>
-<p>Hi! My name is Minne(/’mɪnə/). I am 14 years old at the time of publishing, and I am into computers and homelabbing. I started homelabbing about 2 years ago and have made some upgrades along the way.</p>
-<br>
-<h2>DEVICES</h2>
-<p>wait no how do you do a list in HTML again?</p>
-<ul>
-  <li>Main PC. Ryzen 9 3900X, 16GB DDR4, RTX 2060.</li>
-  <li>A Raspberry Pi, I have the Pi 5 4gb.</li>
-  <li>Server computer, mine has an i7 2600k. I am using 16 Gigs of 1333mhz DDR3 and a GTX 1650</li>
-</ul>
-<br>
+# 💫 About Me:
+Currently learning Node.js and Express.js.<br>Working on some personal/hobby projects.<br>14 y/o in 3rd year of VWO Atheneum.<br>Looking to become a software engineer.
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1493704454485180541) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=minnem38&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=minnem38&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=minnem38&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=minnem38&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<!-- created with GPRM ( https://gprm.itsvg.in ) -->
